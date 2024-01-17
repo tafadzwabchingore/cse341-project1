@@ -1,1 +1,1 @@
-cse341- is my firt Web Services project.
+cse341-project1 is my firt Web Services project.
